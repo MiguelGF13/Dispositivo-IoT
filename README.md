@@ -1,4 +1,5 @@
 El siguiente repositorio muestra un ejemplo básico para la conexión del ESP32 con la nube de arduino IoT
+Se conectó un potenciometro a una entrada analogica para visualizar una gráfica en la nube del voltaje
 
 Los pasos a seguir son los siguientes: 
 
